@@ -28,5 +28,3 @@ other decimals cannot be represented with precise values because
 of 64bit constraint.
 
 TLDR: fractional values not precise
-
-
